@@ -10,5 +10,5 @@
 #   SRAG_FORCAR=1 Rscript run_pipeline.R           # refaz tudo do zero
 source("R/01_download.R")
 source("R/02_filter_clean.R")
-message("Pipeline concluído. Recortes em data/historico/bruto/ ",
-        "(ano corrente também em data/dados_limpos_df.csv).")
+message("Pipeline concluído. Recortes em ", dir_bruto,
+        " (ano corrente também em ", arquivo_saida, ").")

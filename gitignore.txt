@@ -1,0 +1,6 @@
+data-raw/
+*.parcial
+*.tmp
+.Rhistory
+.RData
+.Rproj.user/

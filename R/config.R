@@ -283,7 +283,16 @@ resolver_urls_srag <- function(anos = anos_srag) {
 # Caminhos
 # ---------------------------------------------------------------------------
 dir_raw    <- "data-raw"
-dir_out    <- "data"
+# Pasta de saída. O pipeline aceita os dois arranjos de repositório:
+#   data/historico/...  (padrão)      ou      historico/... direto na raiz.
+# Se já existir "historico" na raiz e não existir "data", grava na raiz.
+# Para fixar, defina a variável de ambiente SRAG_DIR_SAIDA ("data" ou ".").
+dir_out <- local({
+  env <- Sys.getenv("SRAG_DIR_SAIDA", "")
+  if (nzchar(env)) env
+  else if (dir.exists("historico") && !dir.exists("data")) "."
+  else "data"
+})
 dir_hist   <- file.path(dir_out, "historico")
 dir_bruto  <- file.path(dir_hist, "bruto")    # recorte RIDE, 1 parquet por ano
 dir_pronto <- file.path(dir_hist, "pronto")   # base analítica, 1 parquet por ano

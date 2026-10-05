@@ -16,7 +16,9 @@
 # lógico e os números como número, iguais em todos os anos. Quem preferir
 # pode abrir a pasta direto com arrow::open_dataset("data/historico/pronto").
 # ---------------------------------------------------------------------------
-ler_srag_ride <- function(anos = NULL, colunas = NULL, origem = "data/historico") {
+ler_srag_ride <- function(anos = NULL, colunas = NULL,
+                          origem = if (dir.exists("historico") && !dir.exists("data")) "historico"
+                                   else "data/historico") {
   remoto <- grepl("^https?://", origem)
   junta  <- function(...) if (remoto) paste(..., sep = "/") else file.path(...)
 
