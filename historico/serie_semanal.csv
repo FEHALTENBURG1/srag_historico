@@ -3818,7 +3818,7 @@
 2025,50,"2025-SE50","Distrito Federal","SRAG por outro vírus respiratório",97,0,24,97
 2025,50,"2025-SE50","Fora da RIDE","SRAG não especificada",3,1,2,0
 2025,50,"2025-SE50","Fora da RIDE","SRAG por outro vírus respiratório",1,0,1,1
-2025,50,"2025-SE50","RIDE – Goiás","SRAG não especificada",18,2,6,0
+2025,50,"2025-SE50","RIDE – Goiás","SRAG não especificada",18,3,6,0
 2025,50,"2025-SE50","RIDE – Goiás","SRAG por COVID-19",3,0,1,3
 2025,50,"2025-SE50","RIDE – Goiás","SRAG por influenza",2,1,2,2
 2025,50,"2025-SE50","RIDE – Goiás","SRAG por outro agente etiológico",1,0,1,0
@@ -3868,10 +3868,10 @@
 2026,1,"2026-SE01","RIDE – Goiás","SRAG por outro vírus respiratório",18,0,5,18
 2026,1,"2026-SE01","RIDE – Minas Gerais","SRAG não especificada",5,0,2,0
 2026,2,"2026-SE02","Distrito Federal","SRAG não especificada",36,2,20,0
-2026,2,"2026-SE02","Distrito Federal","SRAG por COVID-19",8,0,1,8
-2026,2,"2026-SE02","Distrito Federal","SRAG por influenza",8,1,5,8
+2026,2,"2026-SE02","Distrito Federal","SRAG por COVID-19",7,0,1,7
+2026,2,"2026-SE02","Distrito Federal","SRAG por influenza",7,1,5,7
 2026,2,"2026-SE02","Distrito Federal","SRAG por outro agente etiológico",1,0,1,0
-2026,2,"2026-SE02","Distrito Federal","SRAG por outro vírus respiratório",53,1,15,53
+2026,2,"2026-SE02","Distrito Federal","SRAG por outro vírus respiratório",51,1,15,51
 2026,2,"2026-SE02","Fora da RIDE","SRAG por outro vírus respiratório",1,0,1,1
 2026,2,"2026-SE02","RIDE – Goiás","SRAG não especificada",10,0,2,0
 2026,2,"2026-SE02","RIDE – Goiás","SRAG por COVID-19",2,0,1,2
@@ -3882,7 +3882,7 @@
 2026,3,"2026-SE03","Distrito Federal","SRAG não especificada",23,0,10,0
 2026,3,"2026-SE03","Distrito Federal","SRAG por COVID-19",9,0,2,9
 2026,3,"2026-SE03","Distrito Federal","SRAG por influenza",1,0,0,1
-2026,3,"2026-SE03","Distrito Federal","SRAG por outro vírus respiratório",46,0,15,46
+2026,3,"2026-SE03","Distrito Federal","SRAG por outro vírus respiratório",45,0,15,45
 2026,3,"2026-SE03","Fora da RIDE","SRAG não especificada",3,0,1,0
 2026,3,"2026-SE03","Fora da RIDE","SRAG por outro vírus respiratório",3,0,1,3
 2026,3,"2026-SE03","RIDE – Goiás","SRAG não especificada",9,0,3,0
@@ -3891,16 +3891,15 @@
 2026,3,"2026-SE03","RIDE – Minas Gerais","SRAG não especificada",4,0,1,0
 2026,3,"2026-SE03","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,0,1
 2026,4,"2026-SE04","Distrito Federal","SRAG não especificada",34,0,18,0
-2026,4,"2026-SE04","Distrito Federal","SRAG por COVID-19",8,0,2,8
+2026,4,"2026-SE04","Distrito Federal","SRAG por COVID-19",5,0,2,5
 2026,4,"2026-SE04","Distrito Federal","SRAG por influenza",5,0,2,5
 2026,4,"2026-SE04","Distrito Federal","SRAG por outro vírus respiratório",45,0,17,45
 2026,4,"2026-SE04","Fora da RIDE","SRAG não especificada",3,2,2,0
 2026,4,"2026-SE04","RIDE – Goiás","SRAG não especificada",14,0,4,0
-2026,4,"2026-SE04","RIDE – Goiás","SRAG por COVID-19",1,0,0,1
 2026,4,"2026-SE04","RIDE – Goiás","SRAG por outro vírus respiratório",18,0,6,18
 2026,4,"2026-SE04","RIDE – Minas Gerais","SRAG não especificada",2,0,0,0
 2026,5,"2026-SE05","Distrito Federal","SRAG não especificada",36,0,19,0
-2026,5,"2026-SE05","Distrito Federal","SRAG por COVID-19",5,0,3,5
+2026,5,"2026-SE05","Distrito Federal","SRAG por COVID-19",4,0,3,4
 2026,5,"2026-SE05","Distrito Federal","SRAG por influenza",2,0,2,2
 2026,5,"2026-SE05","Distrito Federal","SRAG por outro agente etiológico",1,0,0,0
 2026,5,"2026-SE05","Distrito Federal","SRAG por outro vírus respiratório",54,0,16,54
@@ -3938,8 +3937,8 @@
 2026,8,"2026-SE08","Distrito Federal","SRAG por influenza",11,0,2,11
 2026,8,"2026-SE08","Distrito Federal","SRAG por outro vírus respiratório",91,1,26,91
 2026,8,"2026-SE08","Fora da RIDE","SRAG por outro vírus respiratório",4,0,2,4
-2026,8,"2026-SE08","RIDE – Goiás","Não classificada",2,0,1,0
-2026,8,"2026-SE08","RIDE – Goiás","SRAG não especificada",18,0,9,0
+2026,8,"2026-SE08","RIDE – Goiás","Não classificada",1,0,1,0
+2026,8,"2026-SE08","RIDE – Goiás","SRAG não especificada",19,0,9,0
 2026,8,"2026-SE08","RIDE – Goiás","SRAG por COVID-19",2,0,0,2
 2026,8,"2026-SE08","RIDE – Goiás","SRAG por influenza",1,0,0,1
 2026,8,"2026-SE08","RIDE – Goiás","SRAG por outro vírus respiratório",23,2,6,23
@@ -3955,7 +3954,7 @@
 2026,9,"2026-SE09","RIDE – Goiás","SRAG por COVID-19",3,0,1,3
 2026,9,"2026-SE09","RIDE – Goiás","SRAG por influenza",2,0,1,2
 2026,9,"2026-SE09","RIDE – Goiás","SRAG por outro vírus respiratório",34,0,7,34
-2026,9,"2026-SE09","RIDE – Minas Gerais","SRAG por outro vírus respiratório",4,0,2,4
+2026,9,"2026-SE09","RIDE – Minas Gerais","SRAG por outro vírus respiratório",4,1,2,4
 2026,10,"2026-SE10","Distrito Federal","SRAG não especificada",66,1,16,0
 2026,10,"2026-SE10","Distrito Federal","SRAG por COVID-19",3,0,1,3
 2026,10,"2026-SE10","Distrito Federal","SRAG por influenza",8,0,3,8
@@ -3977,7 +3976,7 @@
 2026,11,"2026-SE11","Fora da RIDE","SRAG não especificada",4,0,3,0
 2026,11,"2026-SE11","Fora da RIDE","SRAG por influenza",1,0,1,1
 2026,11,"2026-SE11","Fora da RIDE","SRAG por outro vírus respiratório",3,0,3,3
-2026,11,"2026-SE11","RIDE – Goiás","SRAG não especificada",33,2,12,0
+2026,11,"2026-SE11","RIDE – Goiás","SRAG não especificada",33,3,12,0
 2026,11,"2026-SE11","RIDE – Goiás","SRAG por influenza",5,0,1,5
 2026,11,"2026-SE11","RIDE – Goiás","SRAG por outro vírus respiratório",33,1,9,33
 2026,11,"2026-SE11","RIDE – Minas Gerais","SRAG não especificada",2,0,0,0
@@ -4005,10 +4004,10 @@
 2026,13,"2026-SE13","RIDE – Goiás","SRAG por influenza",5,0,3,5
 2026,13,"2026-SE13","RIDE – Goiás","SRAG por outro vírus respiratório",41,1,9,41
 2026,13,"2026-SE13","RIDE – Minas Gerais","SRAG não especificada",2,0,0,0
-2026,14,"2026-SE14","Distrito Federal","Não classificada",2,0,2,0
-2026,14,"2026-SE14","Distrito Federal","SRAG não especificada",56,0,21,0
+2026,14,"2026-SE14","Distrito Federal","Não classificada",1,0,1,0
+2026,14,"2026-SE14","Distrito Federal","SRAG não especificada",57,0,21,0
 2026,14,"2026-SE14","Distrito Federal","SRAG por COVID-19",2,0,1,2
-2026,14,"2026-SE14","Distrito Federal","SRAG por influenza",30,1,12,30
+2026,14,"2026-SE14","Distrito Federal","SRAG por influenza",29,1,11,29
 2026,14,"2026-SE14","Distrito Federal","SRAG por outro vírus respiratório",194,0,55,194
 2026,14,"2026-SE14","Fora da RIDE","SRAG não especificada",2,0,2,0
 2026,14,"2026-SE14","Fora da RIDE","SRAG por influenza",2,0,0,2
@@ -4021,7 +4020,7 @@
 2026,14,"2026-SE14","RIDE – Minas Gerais","SRAG por COVID-19",1,0,0,1
 2026,15,"2026-SE15","Distrito Federal","SRAG não especificada",65,1,31,0
 2026,15,"2026-SE15","Distrito Federal","SRAG por COVID-19",3,0,2,3
-2026,15,"2026-SE15","Distrito Federal","SRAG por influenza",47,0,13,47
+2026,15,"2026-SE15","Distrito Federal","SRAG por influenza",45,0,14,45
 2026,15,"2026-SE15","Distrito Federal","SRAG por outro vírus respiratório",178,0,50,178
 2026,15,"2026-SE15","Fora da RIDE","Não classificada",1,0,1,0
 2026,15,"2026-SE15","Fora da RIDE","SRAG não especificada",3,0,2,0
@@ -4072,7 +4071,7 @@
 2026,18,"2026-SE18","RIDE – Goiás","SRAG por influenza",14,0,3,14
 2026,18,"2026-SE18","RIDE – Goiás","SRAG por outro vírus respiratório",24,0,2,24
 2026,18,"2026-SE18","RIDE – Minas Gerais","SRAG não especificada",7,1,2,0
-2026,19,"2026-SE19","Distrito Federal","Não classificada",2,0,0,1
+2026,19,"2026-SE19","Distrito Federal","Não classificada",1,0,0,0
 2026,19,"2026-SE19","Distrito Federal","SRAG não especificada",46,2,12,0
 2026,19,"2026-SE19","Distrito Federal","SRAG por COVID-19",1,0,0,1
 2026,19,"2026-SE19","Distrito Federal","SRAG por influenza",40,1,13,40
@@ -4086,11 +4085,11 @@
 2026,19,"2026-SE19","RIDE – Minas Gerais","SRAG não especificada",6,1,0,0
 2026,19,"2026-SE19","RIDE – Minas Gerais","SRAG por influenza",2,0,0,2
 2026,19,"2026-SE19","RIDE – Minas Gerais","SRAG por outro vírus respiratório",3,0,0,3
-2026,20,"2026-SE20","Distrito Federal","Não classificada",3,0,1,1
+2026,20,"2026-SE20","Distrito Federal","Não classificada",2,0,0,1
 2026,20,"2026-SE20","Distrito Federal","SRAG não especificada",57,1,14,1
 2026,20,"2026-SE20","Distrito Federal","SRAG por COVID-19",2,0,0,2
 2026,20,"2026-SE20","Distrito Federal","SRAG por influenza",34,1,7,34
-2026,20,"2026-SE20","Distrito Federal","SRAG por outro vírus respiratório",133,0,40,133
+2026,20,"2026-SE20","Distrito Federal","SRAG por outro vírus respiratório",134,0,42,134
 2026,20,"2026-SE20","Fora da RIDE","Não classificada",1,0,1,0
 2026,20,"2026-SE20","Fora da RIDE","SRAG não especificada",4,0,2,0
 2026,20,"2026-SE20","Fora da RIDE","SRAG por influenza",2,0,1,2
@@ -4102,124 +4101,118 @@
 2026,20,"2026-SE20","RIDE – Minas Gerais","SRAG não especificada",4,1,0,0
 2026,20,"2026-SE20","RIDE – Minas Gerais","SRAG por outro agente etiológico",1,0,1,1
 2026,20,"2026-SE20","RIDE – Minas Gerais","SRAG por outro vírus respiratório",2,1,1,2
-2026,21,"2026-SE21","Distrito Federal","Não classificada",3,0,2,1
-2026,21,"2026-SE21","Distrito Federal","SRAG não especificada",31,0,6,0
+2026,21,"2026-SE21","Distrito Federal","Não classificada",2,0,1,1
+2026,21,"2026-SE21","Distrito Federal","SRAG não especificada",32,0,7,0
 2026,21,"2026-SE21","Distrito Federal","SRAG por COVID-19",4,0,2,4
 2026,21,"2026-SE21","Distrito Federal","SRAG por influenza",29,0,8,29
 2026,21,"2026-SE21","Distrito Federal","SRAG por outro vírus respiratório",120,1,32,120
 2026,21,"2026-SE21","Fora da RIDE","SRAG não especificada",1,0,1,0
 2026,21,"2026-SE21","Fora da RIDE","SRAG por influenza",1,0,1,1
 2026,21,"2026-SE21","Fora da RIDE","SRAG por outro vírus respiratório",2,0,1,2
-2026,21,"2026-SE21","RIDE – Goiás","Não classificada",8,0,1,4
-2026,21,"2026-SE21","RIDE – Goiás","SRAG não especificada",15,0,5,0
-2026,21,"2026-SE21","RIDE – Goiás","SRAG por influenza",9,1,3,9
-2026,21,"2026-SE21","RIDE – Goiás","SRAG por outro vírus respiratório",61,0,11,61
+2026,21,"2026-SE21","RIDE – Goiás","Não classificada",4,0,1,3
+2026,21,"2026-SE21","RIDE – Goiás","SRAG não especificada",15,0,6,0
+2026,21,"2026-SE21","RIDE – Goiás","SRAG por influenza",10,1,3,10
+2026,21,"2026-SE21","RIDE – Goiás","SRAG por outro vírus respiratório",63,0,12,63
 2026,21,"2026-SE21","RIDE – Minas Gerais","SRAG não especificada",1,0,0,0
 2026,21,"2026-SE21","RIDE – Minas Gerais","SRAG por influenza",1,0,0,1
 2026,21,"2026-SE21","RIDE – Minas Gerais","SRAG por outro vírus respiratório",2,0,0,2
-2026,22,"2026-SE22","Distrito Federal","Não classificada",10,0,0,3
-2026,22,"2026-SE22","Distrito Federal","SRAG não especificada",52,3,19,0
+2026,22,"2026-SE22","Distrito Federal","Não classificada",5,0,0,3
+2026,22,"2026-SE22","Distrito Federal","SRAG não especificada",51,3,19,0
 2026,22,"2026-SE22","Distrito Federal","SRAG por COVID-19",3,1,1,3
 2026,22,"2026-SE22","Distrito Federal","SRAG por influenza",39,0,9,39
-2026,22,"2026-SE22","Distrito Federal","SRAG por outro vírus respiratório",121,1,31,121
+2026,22,"2026-SE22","Distrito Federal","SRAG por outro vírus respiratório",126,1,32,126
 2026,22,"2026-SE22","Fora da RIDE","SRAG por outro vírus respiratório",1,0,0,1
-2026,22,"2026-SE22","RIDE – Goiás","Não classificada",7,0,0,5
-2026,22,"2026-SE22","RIDE – Goiás","SRAG não especificada",25,1,9,0
+2026,22,"2026-SE22","RIDE – Goiás","Não classificada",5,0,0,5
+2026,22,"2026-SE22","RIDE – Goiás","SRAG não especificada",25,1,8,0
 2026,22,"2026-SE22","RIDE – Goiás","SRAG por COVID-19",1,0,0,1
-2026,22,"2026-SE22","RIDE – Goiás","SRAG por influenza",17,1,2,17
-2026,22,"2026-SE22","RIDE – Goiás","SRAG por outro vírus respiratório",49,1,9,49
+2026,22,"2026-SE22","RIDE – Goiás","SRAG por influenza",18,1,3,18
+2026,22,"2026-SE22","RIDE – Goiás","SRAG por outro vírus respiratório",50,1,9,50
 2026,22,"2026-SE22","RIDE – Minas Gerais","SRAG não especificada",7,3,2,0
 2026,22,"2026-SE22","RIDE – Minas Gerais","SRAG por outro vírus respiratório",2,0,1,2
-2026,23,"2026-SE23","Distrito Federal","Não classificada",12,0,0,6
-2026,23,"2026-SE23","Distrito Federal","SRAG não especificada",46,2,14,0
+2026,23,"2026-SE23","Distrito Federal","Não classificada",7,0,0,6
+2026,23,"2026-SE23","Distrito Federal","SRAG não especificada",47,2,14,0
 2026,23,"2026-SE23","Distrito Federal","SRAG por COVID-19",3,0,0,3
 2026,23,"2026-SE23","Distrito Federal","SRAG por influenza",20,0,6,20
-2026,23,"2026-SE23","Distrito Federal","SRAG por outro vírus respiratório",116,1,34,116
+2026,23,"2026-SE23","Distrito Federal","SRAG por outro vírus respiratório",120,1,34,120
 2026,23,"2026-SE23","Fora da RIDE","SRAG não especificada",1,0,1,0
 2026,23,"2026-SE23","Fora da RIDE","SRAG por outro vírus respiratório",2,0,0,2
-2026,23,"2026-SE23","RIDE – Goiás","Não classificada",7,0,0,4
-2026,23,"2026-SE23","RIDE – Goiás","SRAG não especificada",28,1,15,0
+2026,23,"2026-SE23","RIDE – Goiás","Não classificada",5,0,0,4
+2026,23,"2026-SE23","RIDE – Goiás","SRAG não especificada",29,1,15,0
 2026,23,"2026-SE23","RIDE – Goiás","SRAG por COVID-19",2,2,0,2
-2026,23,"2026-SE23","RIDE – Goiás","SRAG por influenza",17,0,2,17
+2026,23,"2026-SE23","RIDE – Goiás","SRAG por influenza",18,0,4,18
 2026,23,"2026-SE23","RIDE – Goiás","SRAG por outro vírus respiratório",51,0,10,51
 2026,23,"2026-SE23","RIDE – Minas Gerais","SRAG não especificada",1,0,0,0
 2026,23,"2026-SE23","RIDE – Minas Gerais","SRAG por influenza",1,0,0,1
 2026,23,"2026-SE23","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,0,1
 2026,24,"2026-SE24","Distrito Federal","Não classificada",1,0,0,0
-2026,24,"2026-SE24","Distrito Federal","SRAG não especificada",36,1,10,0
+2026,24,"2026-SE24","Distrito Federal","SRAG não especificada",37,1,11,0
 2026,24,"2026-SE24","Distrito Federal","SRAG por COVID-19",2,0,0,2
 2026,24,"2026-SE24","Distrito Federal","SRAG por influenza",43,1,18,43
 2026,24,"2026-SE24","Distrito Federal","SRAG por outro vírus respiratório",100,0,25,100
 2026,24,"2026-SE24","Fora da RIDE","SRAG por influenza",1,0,1,1
 2026,24,"2026-SE24","Fora da RIDE","SRAG por outro vírus respiratório",1,0,1,1
-2026,24,"2026-SE24","RIDE – Goiás","Não classificada",2,0,0,0
+2026,24,"2026-SE24","RIDE – Goiás","Não classificada",1,0,0,0
 2026,24,"2026-SE24","RIDE – Goiás","SRAG não especificada",38,5,8,0
 2026,24,"2026-SE24","RIDE – Goiás","SRAG por influenza",17,1,5,17
-2026,24,"2026-SE24","RIDE – Goiás","SRAG por outro vírus respiratório",37,1,9,37
+2026,24,"2026-SE24","RIDE – Goiás","SRAG por outro vírus respiratório",38,1,9,38
 2026,24,"2026-SE24","RIDE – Minas Gerais","SRAG não especificada",5,1,2,0
-2026,25,"2026-SE25","Distrito Federal","Não classificada",1,0,0,0
-2026,25,"2026-SE25","Distrito Federal","SRAG não especificada",41,2,13,0
+2026,25,"2026-SE25","Distrito Federal","SRAG não especificada",41,2,14,0
 2026,25,"2026-SE25","Distrito Federal","SRAG por COVID-19",3,0,2,3
 2026,25,"2026-SE25","Distrito Federal","SRAG por influenza",27,0,9,27
-2026,25,"2026-SE25","Distrito Federal","SRAG por outro vírus respiratório",89,0,20,89
+2026,25,"2026-SE25","Distrito Federal","SRAG por outro vírus respiratório",89,0,19,89
 2026,25,"2026-SE25","Fora da RIDE","SRAG não especificada",3,0,0,0
 2026,25,"2026-SE25","Fora da RIDE","SRAG por influenza",2,0,0,2
-2026,25,"2026-SE25","RIDE – Goiás","Não classificada",3,0,0,1
 2026,25,"2026-SE25","RIDE – Goiás","SRAG não especificada",23,2,5,0
 2026,25,"2026-SE25","RIDE – Goiás","SRAG por influenza",11,0,3,11
-2026,25,"2026-SE25","RIDE – Goiás","SRAG por outro vírus respiratório",32,0,8,32
+2026,25,"2026-SE25","RIDE – Goiás","SRAG por outro vírus respiratório",35,0,9,35
 2026,25,"2026-SE25","RIDE – Minas Gerais","SRAG não especificada",2,0,0,0
 2026,25,"2026-SE25","RIDE – Minas Gerais","SRAG por influenza",1,0,1,1
-2026,26,"2026-SE26","Distrito Federal","Não classificada",8,0,0,4
-2026,26,"2026-SE26","Distrito Federal","SRAG não especificada",37,3,13,0
+2026,26,"2026-SE26","Distrito Federal","Não classificada",4,0,1,3
+2026,26,"2026-SE26","Distrito Federal","SRAG não especificada",39,3,13,0
 2026,26,"2026-SE26","Distrito Federal","SRAG por COVID-19",4,0,1,4
 2026,26,"2026-SE26","Distrito Federal","SRAG por influenza",43,2,12,43
-2026,26,"2026-SE26","Distrito Federal","SRAG por outro vírus respiratório",84,0,15,84
+2026,26,"2026-SE26","Distrito Federal","SRAG por outro vírus respiratório",85,0,15,85
 2026,26,"2026-SE26","Fora da RIDE","SRAG por influenza",1,0,0,1
-2026,26,"2026-SE26","RIDE – Goiás","Não classificada",1,0,1,0
-2026,26,"2026-SE26","RIDE – Goiás","SRAG não especificada",31,1,12,0
+2026,26,"2026-SE26","RIDE – Goiás","SRAG não especificada",32,1,13,0
 2026,26,"2026-SE26","RIDE – Goiás","SRAG por COVID-19",2,2,1,2
 2026,26,"2026-SE26","RIDE – Goiás","SRAG por influenza",11,1,4,11
 2026,26,"2026-SE26","RIDE – Goiás","SRAG por outro vírus respiratório",32,0,10,32
 2026,26,"2026-SE26","RIDE – Minas Gerais","SRAG não especificada",3,0,0,0
 2026,26,"2026-SE26","RIDE – Minas Gerais","SRAG por influenza",1,0,0,1
 2026,26,"2026-SE26","RIDE – Minas Gerais","SRAG por outro vírus respiratório",3,0,1,3
-2026,27,"2026-SE27","Distrito Federal","Não classificada",7,0,1,4
+2026,27,"2026-SE27","Distrito Federal","Não classificada",5,0,2,4
 2026,27,"2026-SE27","Distrito Federal","SRAG não especificada",50,0,19,0
 2026,27,"2026-SE27","Distrito Federal","SRAG por COVID-19",4,0,2,4
-2026,27,"2026-SE27","Distrito Federal","SRAG por influenza",28,1,8,28
-2026,27,"2026-SE27","Distrito Federal","SRAG por outro vírus respiratório",64,0,21,64
+2026,27,"2026-SE27","Distrito Federal","SRAG por influenza",29,1,7,29
+2026,27,"2026-SE27","Distrito Federal","SRAG por outro vírus respiratório",64,0,20,64
 2026,27,"2026-SE27","Fora da RIDE","SRAG não especificada",1,0,1,0
 2026,27,"2026-SE27","RIDE – Goiás","Não classificada",1,0,0,0
-2026,27,"2026-SE27","RIDE – Goiás","SRAG não especificada",20,2,9,0
+2026,27,"2026-SE27","RIDE – Goiás","SRAG não especificada",19,2,9,0
 2026,27,"2026-SE27","RIDE – Goiás","SRAG por COVID-19",1,0,1,1
 2026,27,"2026-SE27","RIDE – Goiás","SRAG por influenza",4,0,2,4
 2026,27,"2026-SE27","RIDE – Goiás","SRAG por outro vírus respiratório",20,0,6,20
 2026,27,"2026-SE27","RIDE – Minas Gerais","SRAG não especificada",3,0,1,0
-2026,28,"2026-SE28","Distrito Federal","Não classificada",3,0,1,1
 2026,28,"2026-SE28","Distrito Federal","SRAG não especificada",27,1,9,0
-2026,28,"2026-SE28","Distrito Federal","SRAG por COVID-19",5,0,4,5
-2026,28,"2026-SE28","Distrito Federal","SRAG por influenza",12,0,3,12
+2026,28,"2026-SE28","Distrito Federal","SRAG por COVID-19",4,0,3,4
+2026,28,"2026-SE28","Distrito Federal","SRAG por influenza",13,0,4,13
 2026,28,"2026-SE28","Distrito Federal","SRAG por outro agente etiológico",1,0,1,0
-2026,28,"2026-SE28","Distrito Federal","SRAG por outro vírus respiratório",54,0,18,54
+2026,28,"2026-SE28","Distrito Federal","SRAG por outro vírus respiratório",56,0,18,56
 2026,28,"2026-SE28","Fora da RIDE","SRAG não especificada",2,0,0,0
 2026,28,"2026-SE28","Fora da RIDE","SRAG por influenza",1,0,0,1
 2026,28,"2026-SE28","Fora da RIDE","SRAG por outro vírus respiratório",1,0,1,1
-2026,28,"2026-SE28","RIDE – Goiás","Não classificada",3,0,0,0
-2026,28,"2026-SE28","RIDE – Goiás","SRAG não especificada",23,0,8,0
-2026,28,"2026-SE28","RIDE – Goiás","SRAG por influenza",4,0,1,4
-2026,28,"2026-SE28","RIDE – Goiás","SRAG por outro vírus respiratório",18,0,7,18
+2026,28,"2026-SE28","RIDE – Goiás","SRAG não especificada",24,0,9,0
+2026,28,"2026-SE28","RIDE – Goiás","SRAG por influenza",5,0,1,5
+2026,28,"2026-SE28","RIDE – Goiás","SRAG por outro vírus respiratório",20,0,8,20
 2026,28,"2026-SE28","RIDE – Minas Gerais","SRAG não especificada",1,0,0,0
 2026,28,"2026-SE28","RIDE – Minas Gerais","SRAG por influenza",4,0,2,4
-2026,29,"2026-SE29","Distrito Federal","Não classificada",2,0,1,0
-2026,29,"2026-SE29","Distrito Federal","SRAG não especificada",29,0,7,0
+2026,29,"2026-SE29","Distrito Federal","SRAG não especificada",30,0,8,0
 2026,29,"2026-SE29","Distrito Federal","SRAG por COVID-19",1,0,0,1
-2026,29,"2026-SE29","Distrito Federal","SRAG por influenza",15,0,6,15
+2026,29,"2026-SE29","Distrito Federal","SRAG por influenza",16,0,7,16
 2026,29,"2026-SE29","Distrito Federal","SRAG por outro vírus respiratório",35,0,7,35
 2026,29,"2026-SE29","Fora da RIDE","Não classificada",1,0,0,0
 2026,29,"2026-SE29","Fora da RIDE","SRAG não especificada",2,0,0,0
 2026,29,"2026-SE29","Fora da RIDE","SRAG por outro vírus respiratório",2,0,2,2
-2026,29,"2026-SE29","RIDE – Goiás","Não classificada",3,0,0,0
+2026,29,"2026-SE29","RIDE – Goiás","Não classificada",2,0,0,0
 2026,29,"2026-SE29","RIDE – Goiás","SRAG não especificada",28,2,15,0
 2026,29,"2026-SE29","RIDE – Goiás","SRAG por COVID-19",1,0,1,1
 2026,29,"2026-SE29","RIDE – Goiás","SRAG por outro vírus respiratório",13,1,8,13
@@ -4227,23 +4220,23 @@
 2026,29,"2026-SE29","RIDE – Minas Gerais","SRAG por influenza",1,0,0,1
 2026,29,"2026-SE29","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,0,1
 2026,30,"2026-SE30","Distrito Federal","Não classificada",1,0,1,0
-2026,30,"2026-SE30","Distrito Federal","SRAG não especificada",30,1,11,0
+2026,30,"2026-SE30","Distrito Federal","SRAG não especificada",30,2,11,0
 2026,30,"2026-SE30","Distrito Federal","SRAG por COVID-19",1,0,0,1
 2026,30,"2026-SE30","Distrito Federal","SRAG por influenza",10,0,4,10
 2026,30,"2026-SE30","Distrito Federal","SRAG por outro vírus respiratório",30,0,7,30
 2026,30,"2026-SE30","Fora da RIDE","SRAG não especificada",1,0,0,0
-2026,30,"2026-SE30","RIDE – Goiás","Não classificada",3,0,2,0
-2026,30,"2026-SE30","RIDE – Goiás","SRAG não especificada",18,0,8,0
+2026,30,"2026-SE30","RIDE – Goiás","Não classificada",1,0,1,0
+2026,30,"2026-SE30","RIDE – Goiás","SRAG não especificada",20,0,9,0
 2026,30,"2026-SE30","RIDE – Goiás","SRAG por influenza",3,0,0,3
 2026,30,"2026-SE30","RIDE – Goiás","SRAG por outro vírus respiratório",11,1,4,11
 2026,30,"2026-SE30","RIDE – Minas Gerais","SRAG não especificada",2,0,0,0
 2026,30,"2026-SE30","RIDE – Minas Gerais","SRAG por influenza",1,0,0,1
 2026,30,"2026-SE30","RIDE – Minas Gerais","SRAG por outro vírus respiratório",3,0,0,3
-2026,31,"2026-SE31","Distrito Federal","Não classificada",3,0,2,1
+2026,31,"2026-SE31","Distrito Federal","Não classificada",2,0,2,1
 2026,31,"2026-SE31","Distrito Federal","SRAG não especificada",31,1,16,0
 2026,31,"2026-SE31","Distrito Federal","SRAG por COVID-19",2,0,1,2
 2026,31,"2026-SE31","Distrito Federal","SRAG por influenza",12,0,3,12
-2026,31,"2026-SE31","Distrito Federal","SRAG por outro vírus respiratório",48,0,17,48
+2026,31,"2026-SE31","Distrito Federal","SRAG por outro vírus respiratório",49,0,17,49
 2026,31,"2026-SE31","Fora da RIDE","SRAG não especificada",4,0,2,0
 2026,31,"2026-SE31","RIDE – Goiás","Não classificada",1,0,1,0
 2026,31,"2026-SE31","RIDE – Goiás","SRAG não especificada",12,1,4,0
@@ -4251,11 +4244,12 @@
 2026,31,"2026-SE31","RIDE – Goiás","SRAG por outro vírus respiratório",16,0,4,16
 2026,31,"2026-SE31","RIDE – Minas Gerais","SRAG não especificada",2,0,0,0
 2026,31,"2026-SE31","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,0,1
-2026,32,"2026-SE32","Distrito Federal","Não classificada",6,0,1,2
-2026,32,"2026-SE32","Distrito Federal","SRAG não especificada",41,0,12,0
+2026,32,"2026-SE32","Distrito Federal","Não classificada",2,0,0,1
+2026,32,"2026-SE32","Distrito Federal","SRAG não especificada",44,0,17,0
 2026,32,"2026-SE32","Distrito Federal","SRAG por COVID-19",2,0,0,2
 2026,32,"2026-SE32","Distrito Federal","SRAG por influenza",14,0,5,14
-2026,32,"2026-SE32","Distrito Federal","SRAG por outro vírus respiratório",70,0,15,70
+2026,32,"2026-SE32","Distrito Federal","SRAG por outro agente etiológico",1,0,1,0
+2026,32,"2026-SE32","Distrito Federal","SRAG por outro vírus respiratório",71,0,15,71
 2026,32,"2026-SE32","Fora da RIDE","SRAG por COVID-19",1,0,1,1
 2026,32,"2026-SE32","Fora da RIDE","SRAG por influenza",1,0,0,1
 2026,32,"2026-SE32","RIDE – Goiás","Não classificada",2,0,1,0
@@ -4264,73 +4258,97 @@
 2026,32,"2026-SE32","RIDE – Goiás","SRAG por influenza",2,0,1,2
 2026,32,"2026-SE32","RIDE – Goiás","SRAG por outro vírus respiratório",14,1,1,14
 2026,32,"2026-SE32","RIDE – Minas Gerais","SRAG por outro vírus respiratório",3,0,1,3
-2026,33,"2026-SE33","Distrito Federal","Não classificada",2,0,0,0
+2026,33,"2026-SE33","Distrito Federal","Não classificada",2,0,0,1
 2026,33,"2026-SE33","Distrito Federal","SRAG não especificada",38,1,17,0
 2026,33,"2026-SE33","Distrito Federal","SRAG por COVID-19",2,0,0,2
-2026,33,"2026-SE33","Distrito Federal","SRAG por influenza",17,0,3,17
+2026,33,"2026-SE33","Distrito Federal","SRAG por influenza",18,0,3,18
 2026,33,"2026-SE33","Distrito Federal","SRAG por outro vírus respiratório",54,0,13,54
-2026,33,"2026-SE33","Fora da RIDE","SRAG não especificada",1,0,1,0
 2026,33,"2026-SE33","Fora da RIDE","SRAG por influenza",1,0,0,1
+2026,33,"2026-SE33","Fora da RIDE","SRAG por outro agente etiológico",1,0,1,0
 2026,33,"2026-SE33","Fora da RIDE","SRAG por outro vírus respiratório",1,0,0,1
-2026,33,"2026-SE33","RIDE – Goiás","Não classificada",5,0,3,0
-2026,33,"2026-SE33","RIDE – Goiás","SRAG não especificada",12,0,1,0
+2026,33,"2026-SE33","RIDE – Goiás","Não classificada",1,0,1,0
+2026,33,"2026-SE33","RIDE – Goiás","SRAG não especificada",15,0,3,0
 2026,33,"2026-SE33","RIDE – Goiás","SRAG por influenza",2,0,1,2
-2026,33,"2026-SE33","RIDE – Goiás","SRAG por outro vírus respiratório",25,0,7,25
+2026,33,"2026-SE33","RIDE – Goiás","SRAG por outro vírus respiratório",26,0,7,26
 2026,33,"2026-SE33","RIDE – Minas Gerais","SRAG não especificada",2,1,0,0
 2026,33,"2026-SE33","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,1,1
-2026,34,"2026-SE34","Distrito Federal","Não classificada",3,0,1,0
-2026,34,"2026-SE34","Distrito Federal","SRAG não especificada",32,1,16,0
+2026,34,"2026-SE34","Distrito Federal","Não classificada",2,0,1,0
+2026,34,"2026-SE34","Distrito Federal","SRAG não especificada",33,1,17,0
 2026,34,"2026-SE34","Distrito Federal","SRAG por COVID-19",1,0,0,1
 2026,34,"2026-SE34","Distrito Federal","SRAG por influenza",14,0,4,14
-2026,34,"2026-SE34","Distrito Federal","SRAG por outro vírus respiratório",39,0,13,39
+2026,34,"2026-SE34","Distrito Federal","SRAG por outro vírus respiratório",41,0,13,41
 2026,34,"2026-SE34","Fora da RIDE","SRAG não especificada",1,0,0,0
 2026,34,"2026-SE34","Fora da RIDE","SRAG por influenza",1,0,0,1
 2026,34,"2026-SE34","Fora da RIDE","SRAG por outro vírus respiratório",2,0,1,2
-2026,34,"2026-SE34","RIDE – Goiás","Não classificada",3,0,0,0
-2026,34,"2026-SE34","RIDE – Goiás","SRAG não especificada",16,2,5,0
+2026,34,"2026-SE34","RIDE – Goiás","SRAG não especificada",17,2,5,0
 2026,34,"2026-SE34","RIDE – Goiás","SRAG por COVID-19",2,0,0,2
-2026,34,"2026-SE34","RIDE – Goiás","SRAG por influenza",3,1,0,3
-2026,34,"2026-SE34","RIDE – Goiás","SRAG por outro vírus respiratório",10,0,1,10
+2026,34,"2026-SE34","RIDE – Goiás","SRAG por influenza",4,1,0,4
+2026,34,"2026-SE34","RIDE – Goiás","SRAG por outro vírus respiratório",11,0,1,11
 2026,34,"2026-SE34","RIDE – Minas Gerais","SRAG não especificada",5,0,1,0
 2026,34,"2026-SE34","RIDE – Minas Gerais","SRAG por outro vírus respiratório",2,0,0,2
-2026,35,"2026-SE35","Distrito Federal","Não classificada",3,0,0,0
-2026,35,"2026-SE35","Distrito Federal","SRAG não especificada",31,0,16,0
+2026,35,"2026-SE35","Distrito Federal","SRAG não especificada",30,0,16,0
 2026,35,"2026-SE35","Distrito Federal","SRAG por COVID-19",1,0,0,1
-2026,35,"2026-SE35","Distrito Federal","SRAG por influenza",9,0,1,9
-2026,35,"2026-SE35","Distrito Federal","SRAG por outro vírus respiratório",48,0,13,48
+2026,35,"2026-SE35","Distrito Federal","SRAG por influenza",10,0,1,10
+2026,35,"2026-SE35","Distrito Federal","SRAG por outro vírus respiratório",50,0,13,50
 2026,35,"2026-SE35","Fora da RIDE","SRAG não especificada",1,0,1,0
-2026,35,"2026-SE35","RIDE – Goiás","Não classificada",6,0,3,0
-2026,35,"2026-SE35","RIDE – Goiás","SRAG não especificada",12,1,3,0
+2026,35,"2026-SE35","RIDE – Goiás","Não classificada",4,0,2,0
+2026,35,"2026-SE35","RIDE – Goiás","SRAG não especificada",13,1,3,0
 2026,35,"2026-SE35","RIDE – Goiás","SRAG por influenza",2,0,0,2
-2026,35,"2026-SE35","RIDE – Goiás","SRAG por outro vírus respiratório",14,0,5,14
+2026,35,"2026-SE35","RIDE – Goiás","SRAG por outro vírus respiratório",16,0,7,16
 2026,35,"2026-SE35","RIDE – Minas Gerais","Não classificada",1,0,0,0
 2026,35,"2026-SE35","RIDE – Minas Gerais","SRAG não especificada",3,0,1,0
 2026,35,"2026-SE35","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,0,1
-2026,36,"2026-SE36","Distrito Federal","Não classificada",4,0,1,0
-2026,36,"2026-SE36","Distrito Federal","SRAG não especificada",18,0,8,0
+2026,36,"2026-SE36","Distrito Federal","Não classificada",3,0,0,0
+2026,36,"2026-SE36","Distrito Federal","SRAG não especificada",21,0,9,0
 2026,36,"2026-SE36","Distrito Federal","SRAG por COVID-19",2,0,1,1
-2026,36,"2026-SE36","Distrito Federal","SRAG por influenza",12,0,2,12
-2026,36,"2026-SE36","Distrito Federal","SRAG por outro vírus respiratório",41,0,10,41
+2026,36,"2026-SE36","Distrito Federal","SRAG por influenza",14,0,4,14
+2026,36,"2026-SE36","Distrito Federal","SRAG por outro vírus respiratório",44,0,11,44
 2026,36,"2026-SE36","Fora da RIDE","Não classificada",1,0,1,0
-2026,36,"2026-SE36","RIDE – Goiás","Não classificada",3,0,3,0
-2026,36,"2026-SE36","RIDE – Goiás","SRAG não especificada",11,3,1,0
+2026,36,"2026-SE36","RIDE – Goiás","Não classificada",1,0,1,0
+2026,36,"2026-SE36","RIDE – Goiás","SRAG não especificada",12,4,2,0
 2026,36,"2026-SE36","RIDE – Goiás","SRAG por influenza",1,0,0,1
-2026,36,"2026-SE36","RIDE – Goiás","SRAG por outro vírus respiratório",7,0,1,7
+2026,36,"2026-SE36","RIDE – Goiás","SRAG por outro vírus respiratório",8,0,2,8
 2026,36,"2026-SE36","RIDE – Minas Gerais","SRAG não especificada",3,0,1,0
 2026,36,"2026-SE36","RIDE – Minas Gerais","SRAG por COVID-19",1,0,0,0
 2026,36,"2026-SE36","RIDE – Minas Gerais","SRAG por outro vírus respiratório",1,0,1,1
-2026,37,"2026-SE37","Distrito Federal","Não classificada",13,0,4,2
-2026,37,"2026-SE37","Distrito Federal","SRAG não especificada",16,0,9,0
+2026,37,"2026-SE37","Distrito Federal","Não classificada",1,0,0,0
+2026,37,"2026-SE37","Distrito Federal","SRAG não especificada",30,0,14,0
 2026,37,"2026-SE37","Distrito Federal","SRAG por COVID-19",6,0,2,6
-2026,37,"2026-SE37","Distrito Federal","SRAG por influenza",7,0,4,7
-2026,37,"2026-SE37","Distrito Federal","SRAG por outro vírus respiratório",28,0,3,28
-2026,37,"2026-SE37","RIDE – Goiás","Não classificada",14,0,6,1
-2026,37,"2026-SE37","RIDE – Goiás","SRAG não especificada",7,0,1,0
-2026,37,"2026-SE37","RIDE – Goiás","SRAG por influenza",2,0,1,2
-2026,37,"2026-SE37","RIDE – Goiás","SRAG por outro vírus respiratório",5,0,4,5
+2026,37,"2026-SE37","Distrito Federal","SRAG por influenza",13,0,6,13
+2026,37,"2026-SE37","Distrito Federal","SRAG por outro vírus respiratório",42,0,8,42
+2026,37,"2026-SE37","Fora da RIDE","Não classificada",2,0,0,0
+2026,37,"2026-SE37","Fora da RIDE","SRAG por outro vírus respiratório",1,0,0,1
+2026,37,"2026-SE37","RIDE – Goiás","Não classificada",1,0,1,1
+2026,37,"2026-SE37","RIDE – Goiás","SRAG não especificada",15,0,3,0
+2026,37,"2026-SE37","RIDE – Goiás","SRAG por COVID-19",1,0,1,1
+2026,37,"2026-SE37","RIDE – Goiás","SRAG por influenza",3,0,2,3
+2026,37,"2026-SE37","RIDE – Goiás","SRAG por outro vírus respiratório",11,0,5,11
 2026,37,"2026-SE37","RIDE – Minas Gerais","SRAG não especificada",1,0,0,0
-2026,38,"2026-SE38","Distrito Federal","Não classificada",6,0,1,0
-2026,38,"2026-SE38","Distrito Federal","SRAG por outro agente etiológico",1,0,0,0
-2026,38,"2026-SE38","Distrito Federal","SRAG por outro vírus respiratório",6,1,2,6
-2026,38,"2026-SE38","RIDE – Goiás","Não classificada",6,0,1,0
-2026,38,"2026-SE38","RIDE – Goiás","SRAG por outro vírus respiratório",1,0,0,1
+2026,38,"2026-SE38","Distrito Federal","Não classificada",4,0,1,1
+2026,38,"2026-SE38","Distrito Federal","SRAG não especificada",14,0,6,0
+2026,38,"2026-SE38","Distrito Federal","SRAG por COVID-19",7,0,2,7
+2026,38,"2026-SE38","Distrito Federal","SRAG por influenza",8,0,0,8
+2026,38,"2026-SE38","Distrito Federal","SRAG por outro vírus respiratório",43,0,12,43
+2026,38,"2026-SE38","Fora da RIDE","Não classificada",1,0,0,0
+2026,38,"2026-SE38","Fora da RIDE","SRAG não especificada",1,0,0,0
+2026,38,"2026-SE38","Fora da RIDE","SRAG por outro vírus respiratório",1,0,1,1
+2026,38,"2026-SE38","RIDE – Goiás","Não classificada",6,0,1,1
+2026,38,"2026-SE38","RIDE – Goiás","SRAG não especificada",12,0,6,0
+2026,38,"2026-SE38","RIDE – Goiás","SRAG por COVID-19",1,0,0,1
+2026,38,"2026-SE38","RIDE – Goiás","SRAG por outro vírus respiratório",4,0,1,4
+2026,38,"2026-SE38","RIDE – Minas Gerais","Não classificada",2,0,0,0
+2026,38,"2026-SE38","RIDE – Minas Gerais","SRAG não especificada",2,0,2,0
+2026,39,"2026-SE39","Distrito Federal","Não classificada",13,0,4,1
+2026,39,"2026-SE39","Distrito Federal","SRAG não especificada",13,0,5,0
+2026,39,"2026-SE39","Distrito Federal","SRAG por COVID-19",4,0,1,4
+2026,39,"2026-SE39","Distrito Federal","SRAG por influenza",3,1,0,2
+2026,39,"2026-SE39","Distrito Federal","SRAG por outro vírus respiratório",32,0,7,32
+2026,39,"2026-SE39","RIDE – Goiás","Não classificada",11,0,3,0
+2026,39,"2026-SE39","RIDE – Goiás","SRAG não especificada",8,0,5,0
+2026,39,"2026-SE39","RIDE – Goiás","SRAG por outro vírus respiratório",3,0,0,3
+2026,40,"2026-SE40","Distrito Federal","Não classificada",10,0,3,1
+2026,40,"2026-SE40","Distrito Federal","SRAG por COVID-19",1,0,1,1
+2026,40,"2026-SE40","Distrito Federal","SRAG por influenza",2,0,0,2
+2026,40,"2026-SE40","Distrito Federal","SRAG por outro vírus respiratório",4,0,1,4
+2026,40,"2026-SE40","RIDE – Goiás","Não classificada",7,0,3,0
+2026,40,"2026-SE40","RIDE – Goiás","SRAG não especificada",2,0,1,0
